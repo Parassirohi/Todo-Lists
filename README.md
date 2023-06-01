@@ -41,6 +41,7 @@ python manage.py runserver
 The Todo List application provides the following API endpoints:
 
 /todo/tasks/:
+
 >GET: Retrieve a list of tasks or create a new task.
 >POST: Create a new task.
 
@@ -59,9 +60,11 @@ The Todo List application provides the following API endpoints:
 >DELETE: Delete a specific tag.
 
 ##Authentication
+
 The API endpoints require Basic Authentication for access. When making requests to the API, include the username and password in the request headers using Basic Authentication.
 
 
 ##Contribution
+
 Contributions to the Todo List application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project repository.
 
