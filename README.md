@@ -4,7 +4,8 @@
 
 This is a simple Todo List application built with Django and Django REST Framework. It allows users to create tasks, add descriptions and tags, set due dates, and track the status of tasks.
 
-##Features
+##Features-->
+
 -> User-friendly interface to create, view, update, and delete tasks.
 -> Ability to add descriptions and tags to tasks.
 -> Setting due dates for tasks.
@@ -59,12 +60,10 @@ The Todo List application provides the following API endpoints:
 >PUT: Update a specific tag.
 >DELETE: Delete a specific tag.
 
-##Authentication--
-
+##Authentication-->
 The API endpoints require Basic Authentication for access. When making requests to the API, include the username and password in the request headers using Basic Authentication.
 
 
-##Contribution--
-
+##Contribution-->
 Contributions to the Todo List application are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project repository.
 
